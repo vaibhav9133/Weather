@@ -33,6 +33,13 @@ input[type="text"] {
     margin-bottom: 20px;
     box-sizing: border-box;
 }
+.logo {
+    display: flex;
+    margin: auto;
+    width: 75px;
+    height: 75px;
+    margin-top: 200px;
+}
 
 button[type="submit"] {
     font-size: 24px;
